@@ -1,0 +1,43 @@
+.image {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+img {
+    border: 2px solid #ddd;
+    background-color: white;
+}
+
+.text-caption {
+    padding: 10px;
+    font-size: 14px;
+}
+
+body {
+    margin-top: 60px;
+}
+
+ul {
+    font-size: 14px;
+}
+
+/*
+#Combined-Shape-Copy-2, #Combined-Shape-Copy, #Combined-Shape {
+    fill: yellow;
+    
+}
+*/
+
+#Combined-Shape {
+    fill: black;
+    color: red;
+}
+
+#eyesr {
+    fill:red;
+}
